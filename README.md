@@ -34,6 +34,7 @@
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
 | 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/RobinSea/IPTV-IPV6/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
 |  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/RobinSea/IPTV-IPV6/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+|  📦TVBOX 小雅    | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/RobinSea/IPTV-IPV6/main/xiaoya) |   239   | 🌕日常更新 | 2024.02.27 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -42,6 +43,8 @@
 链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
 
 链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+
+链接[xiaoya]: `https://mirror.ghproxy.com/https://raw.githubusercontent.com/RobinSea/IPTV-IPV6/main/xiaoya`[tvbox]
 
 ## 🛠️EPG
 
